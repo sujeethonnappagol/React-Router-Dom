@@ -1,4 +1,5 @@
 import {Link} from 'react-router-dom';
+// link for dyanamic change
 function Navbar(){
     return (
         <>
