@@ -1,4 +1,4 @@
-// this is a dataset taken in a chatgpt but take it from API for better practise
+// this is a dataset taken in a chatgpt but take it from API for better practise.
 const Users = [
   {
     name: "Sujeet",
